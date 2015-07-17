@@ -1,0 +1,3 @@
+This content is licensed along the terms of the Creative Commons Attribution-ShareAlike 4.0 International Public License (CC BY-SA 4.0) : [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
+
+Legal terms are available at the following address : [https://creativecommons.org/licenses/by-sa/4.0/legalcode](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
